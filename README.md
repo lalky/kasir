@@ -10,12 +10,12 @@ Progam ini adalah sistem aplikasi kasir berbasis konsol sederhana yang di bangun
 
 ### Cara Menggunakan
 # Windows
--Install Python di https://www.python.org/downloads/
--Pastikan Python Sudah terinstal dengan python --version
--Buka Command Prompt
--Clone Repository
--cd kasir
--Jalankan python kasir.py
+- Install Python di https://www.python.org/downloads/
+- Pastikan Python Sudah terinstal dengan python --version
+- Buka Command Prompt
+- Clone Repository
+- cd kasir
+- Jalankan python kasir.py
 # Linux
 - Pastikan Python Sudah terinstall dengan python --version
 - Buka Terminal
@@ -25,6 +25,7 @@ Progam ini adalah sistem aplikasi kasir berbasis konsol sederhana yang di bangun
 # Termux
 - pkg install
 - pkg update && pkg upgrade
+- pkg install git
 - pkg install python
 - Pastikan Python sudah terinstall dengan python --version
 - clone repository
